@@ -1,0 +1,7 @@
+# Modelos de voz (casi 1 GB): se descargan aparte, ver LEEME.md
+build/voces/
+build/tmp/
+build/log_*.txt
+build/__pycache__/
+# El ZIP duplica el contenido de las carpetas
+*.zip
