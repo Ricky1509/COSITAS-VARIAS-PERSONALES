@@ -15,7 +15,7 @@
 0:00 La cifra
 0:13 ¿Cuánto espacio tienes?
 0:27 Paso 1
-0:43 Paso 2
+0:43 Paso 2 / Paso 3 · disco externo
 1:11 El truco del parche
 1:23 Resumen
 

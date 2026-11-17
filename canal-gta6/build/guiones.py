@@ -61,13 +61,13 @@ dict(
 # ---------------------------------------------------------------- 02
 dict(
  id="02", slug="todo-lo-que-sabemos",
- titulo="GTA 6: TODO lo que necesitas saber antes de jugar (resumen en 4 minutos)",
+ titulo="GTA 6: TODO lo que necesitas saber antes de jugar (resumen rápido, sin spoilers)",
  mini=("GTA 6", "TODO LO QUE SABEMOS"), paleta="naranja",
  tags=["gta 6","gta 6 resumen","gta 6 todo lo que sabemos","gta 6 historia","gta 6 jason lucia","leonida","vice city","gta vi"],
  escenas=[
-  dict(h="EN 4 MINUTOS", vis=dict(t="titulo", texto="GTA 6 EN 4 MINUTOS", sub="Todo lo importante antes de jugar"),
+  dict(h="EN 2 MINUTOS", vis=dict(t="titulo", texto="GTA 6 EN 2 MINUTOS", sub="Todo lo importante antes de jugar"),
        voz=["Si no has seguido cada noticia de los últimos años, este video es para ti.",
-            "Te resumo todo lo importante de GTA seis en unos cuatro minutos, sin spoilers de la historia."]),
+            "Te resumo todo lo importante de GTA seis en un par de minutos, sin spoilers de la historia."]),
   dict(h="LA FECHA", vis=dict(t="linea", eventos=[["DIC 2023","Primer tráiler"],["MAY 2025","Segundo tráiler · 1er retraso"],["NOV 2025","2º retraso"],["19 NOV 2026","Lanzamiento"]]),
        voz=["El primer tráiler llegó en diciembre de dos mil veintitrés.",
             "En mayo de dos mil veinticinco llegó el segundo tráiler, y también el primer retraso, a dos mil veintiséis.",
@@ -292,7 +292,7 @@ dict(
 # ---------------------------------------------------------------- 10
 dict(
  id="10", slug="historia-de-gta",
- titulo="De GTA 1 a GTA 6: la historia de la saga en 5 minutos",
+ titulo="De GTA 1 a GTA 6: la historia de la saga en 2 minutos",
  mini=("DE GTA 1", "A GTA 6"), paleta="dorado",
  tags=["historia de gta","gta saga","gta san andreas","gta vice city","gta 5","gta 6","evolucion gta","todos los gta"],
  escenas=[

@@ -83,24 +83,24 @@ gta 6, gta 6 hora, a que hora sale gta 6, gta 6 horario, gta 6 lanzamiento, gta 
 
 ---
 
-# 02 · GTA 6: TODO lo que necesitas saber antes de jugar (resumen en 4 minutos)
+# 02 · GTA 6: TODO lo que necesitas saber antes de jugar (resumen rápido, sin spoilers)
 
 **Archivo:** `videos/02-todo-lo-que-sabemos.mp4`  
 **Miniatura:** `miniaturas/02-todo-lo-que-sabemos.png`  
 **Subtítulos:** `subtitulos/02-todo-lo-que-sabemos.es.srt`
 
 ## Título
-GTA 6: TODO lo que necesitas saber antes de jugar (resumen en 4 minutos)
+GTA 6: TODO lo que necesitas saber antes de jugar (resumen rápido, sin spoilers)
 
 ## Descripción
 ```
 Todo lo que necesitas saber de GTA 6 antes de jugar, en menos de 3 minutos y sin spoilers: fecha de salida, plataformas, el mapa de Leonida, Jason y Lucía, precio de las ediciones, cuánto ocupa y lo que todavía no sabemos.
 
 ⏱️ CAPÍTULOS
-0:00 En 4 minutos
-0:13 La fecha
+0:00 En 2 minutos
+0:12 La fecha
 0:30 Plataformas
-0:41 El lugar: Leonida
+0:40 El lugar: Leonida
 0:54 Los protagonistas
 1:08 Precio
 1:23 El tamaño
@@ -119,10 +119,10 @@ gta 6, gta 6 resumen, gta 6 todo lo que sabemos, gta 6 historia, gta 6 jason luc
 
 ## Guion
 
-**[EN 4 MINUTOS]**
+**[EN 2 MINUTOS]**
 
 > Si no has seguido cada noticia de los últimos años, este video es para ti.
-> Te resumo todo lo importante de GTA seis en unos cuatro minutos, sin spoilers de la historia.
+> Te resumo todo lo importante de GTA seis en un par de minutos, sin spoilers de la historia.
 
 **[LA FECHA]**
 
@@ -186,7 +186,7 @@ gta 6, gta 6 resumen, gta 6 todo lo que sabemos, gta 6 historia, gta 6 jason luc
 0:00 La cifra
 0:13 ¿Cuánto espacio tienes?
 0:27 Paso 1
-0:43 Paso 2
+0:43 Paso 2 / Paso 3 · disco externo
 1:11 El truco del parche
 1:23 Resumen
 
@@ -397,8 +397,8 @@ El mapa de GTA 6 explicado: las 6 regiones de Leonida (Vice City, Leonida Keys, 
 0:00 Bienvenido a Leonida
 0:14 1 · Vice City
 0:28 2 · Leonida Keys
-0:39 3 · Grassrivers
-0:57 5 · Ambrosia
+0:39 3 · Grassrivers / 4 · Port Gellhorn
+0:57 5 · Ambrosia / 6 · Mount Kalaga
 1:17 ¿Qué tan grande es?
 
 🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
@@ -669,14 +669,14 @@ gta 6 consejos, gta 6 tips, gta 6 guia, gta 6 principiantes, gta 6 spoilers, gta
 
 ---
 
-# 10 · De GTA 1 a GTA 6: la historia de la saga en 5 minutos
+# 10 · De GTA 1 a GTA 6: la historia de la saga en 2 minutos
 
 **Archivo:** `videos/10-historia-de-gta.mp4`  
 **Miniatura:** `miniaturas/10-historia-de-gta.png`  
 **Subtítulos:** `subtitulos/10-historia-de-gta.es.srt`
 
 ## Título
-De GTA 1 a GTA 6: la historia de la saga en 5 minutos
+De GTA 1 a GTA 6: la historia de la saga en 2 minutos
 
 ## Descripción
 ```

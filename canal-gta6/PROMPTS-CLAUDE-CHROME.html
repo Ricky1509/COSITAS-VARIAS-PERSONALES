@@ -1,9 +1,10 @@
-<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><title>Prompts para Claude en Chrome</title><style>
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Prompts para Claude en Chrome</title><style>
 body{font-family:system-ui,sans-serif;background:#120a1c;color:#eee;max-width:900px;margin:0 auto;padding:24px;line-height:1.45}
-h1{color:#ff40a0} h2{color:#3ce6ff;margin-top:34px} code{background:#2a1c3c;padding:1px 5px;border-radius:4px} .li{margin:4px 0 4px 12px}
-.campo{margin:8px 0 20px} pre{background:#1e1430;border:1px solid #3a2a50;border-radius:10px;padding:14px;white-space:pre-wrap;max-height:260px;overflow:auto;font-size:13px}
-button{background:#ff40a0;color:#120a1c;border:0;border-radius:10px;padding:12px 20px;font-weight:800;cursor:pointer;font-size:16px;margin-bottom:8px} button.ok{background:#46ffaa}
-</style></head><body><h1>Prompts para Claude en Chrome</h1><p>Úsalos en este orden. <b>Antes de cada prompt haz tú la parte de archivos</b>: la extensión no puede elegir archivos de tu ordenador.</p><h2>Antes de empezar (tú)</h2><p class="li">1. YouTube Studio › <b>Crear › Subir videos</b> › selecciona los <b>10 MP4</b> de <code>videos/</code> › cuando empiecen a subirse, <b>cierra</b> la ventana. Quedan como borradores.</p><p class="li">2. Repite con los <b>5 MP4</b> de <code>shorts/</code>.</p><p class="li">3. Comprueba que existen las dos listas (si no, el prompt las crea).</p><h2>Prompt 1 · Videos 01, 03, 04, 05, 02</h2><p>Pégalo entero en el panel de Claude en Chrome con YouTube Studio abierto en <b>Contenido</b>.</p><div class="campo"><button onclick="copiar(1,this)">Copiar prompt 1</button><pre id="c1">Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí los videos y están en Contenido como BORRADORES. Quiero que edites cada borrador tú, en el navegador, uno por uno, con los datos de abajo. Reglas:
+h1{color:#ff40a0;border-bottom:2px solid #ff40a0;padding-bottom:6px;margin-top:40px} h2{color:#3ce6ff;margin-top:34px}
+table{border-collapse:collapse;margin:8px 0} td{border:1px solid #3a2a50;padding:6px 10px} code{background:#2a1c3c;padding:1px 5px;border-radius:4px}
+.c{position:relative;margin:6px 0 16px} pre{background:#1e1430;border:1px solid #3a2a50;border-radius:10px;padding:14px 120px 14px 14px;white-space:pre-wrap;word-break:break-word;margin:0;font-size:14px;max-height:420px;overflow:auto}
+button{position:absolute;top:8px;right:8px;background:#ff40a0;color:#120a1c;border:0;border-radius:8px;padding:8px 14px;font-weight:700;cursor:pointer} button.ok{background:#46ffaa} hr{border:0;border-top:1px dashed #3a2a50;margin:30px 0}
+</style></head><body><h1>Prompt único (todo de una vez)</h1><p>Sube antes los 10 videos y los 5 Shorts como borradores. Luego copia esto en Claude en Chrome con YouTube Studio abierto en Contenido.</p><div class="c"><button onclick="cp(1,this)">Copiar prompt</button><pre id="c1">Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí los videos y están en Contenido como BORRADORES. Quiero que edites cada borrador tú, en el navegador, uno por uno, con los datos de abajo. Reglas:
 
 - Para encontrar cada video, ve a Contenido y busca el borrador cuyo nombre de archivo coincida con &quot;ARCHIVO&quot; (el título provisional del borrador es el nombre del archivo). Pulsa &quot;Editar borrador&quot;.
 - Pantalla DETALLES:
@@ -21,7 +22,7 @@ button{background:#ff40a0;color:#120a1c;border:0;border-radius:10px;padding:12px
 - Si algo no coincide con estas instrucciones, si un botón no existe o si YouTube muestra un aviso o error, PARA y pregúntame. No publiques nada como &quot;Público&quot; inmediato. No borres nada.
 - Al terminar cada video dime &quot;Video XX listo&quot; y sigue con el siguiente. Al final dame un resumen con lo que quedó programado y cualquier problema.
 
-Edita estos 5 videos en este orden (la DESCRIPCIÓN va entre &lt;&lt;&lt; y &gt;&gt;&gt;; no pegues esos símbolos):
+PRIMERO edita estos 10 videos en este orden (la DESCRIPCIÓN va entre &lt;&lt;&lt; y &gt;&gt;&gt;; no pegues esos símbolos):
 
 =============== VIDEO 01 ===============
 ARCHIVO: 01-hora-de-salida.mp4
@@ -66,7 +67,7 @@ DESCRIPCIÓN:
 0:00 La cifra
 0:13 ¿Cuánto espacio tienes?
 0:27 Paso 1
-0:43 Paso 2
+0:43 Paso 2 / Paso 3 · disco externo
 1:11 El truco del parche
 1:23 Resumen
 
@@ -137,16 +138,16 @@ ARCHIVO: 02-todo-lo-que-sabemos.mp4
 LISTA: GTA 6: lo que tienes que saber
 FECHA Y HORA: 19 de noviembre de 2026, 12:00
 TÍTULO:
-GTA 6: TODO lo que necesitas saber antes de jugar (resumen en 4 minutos)
+GTA 6: TODO lo que necesitas saber antes de jugar (resumen rápido, sin spoilers)
 DESCRIPCIÓN:
 &lt;&lt;&lt;
 Todo lo que necesitas saber de GTA 6 antes de jugar, en menos de 3 minutos y sin spoilers: fecha de salida, plataformas, el mapa de Leonida, Jason y Lucía, precio de las ediciones, cuánto ocupa y lo que todavía no sabemos.
 
 ⏱️ CAPÍTULOS
-0:00 En 4 minutos
-0:13 La fecha
+0:00 En 2 minutos
+0:12 La fecha
 0:30 Plataformas
-0:41 El lugar: Leonida
+0:40 El lugar: Leonida
 0:54 Los protagonistas
 1:08 Precio
 1:23 El tamaño
@@ -161,7 +162,403 @@ Todo lo que necesitas saber de GTA 6 antes de jugar, en menos de 3 minutos y sin
 &gt;&gt;&gt;
 ETIQUETAS:
 gta 6, gta 6 resumen, gta 6 todo lo que sabemos, gta 6 historia, gta 6 jason lucia, leonida, vice city, gta vi
-</pre></div><h2>Prompt 2 · Videos 08, 09, 06, 07, 10</h2><p>Cuando termine el anterior, abre un chat nuevo en la extensión (icono de nuevo chat) y pega este.</p><div class="campo"><button onclick="copiar(2,this)">Copiar prompt 2</button><pre id="c2">Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí los videos y están en Contenido como BORRADORES. Quiero que edites cada borrador tú, en el navegador, uno por uno, con los datos de abajo. Reglas:
+
+=============== VIDEO 08 ===============
+ARCHIVO: 08-que-consola.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 13:00
+TÍTULO:
+GTA 6 en PS5, PS5 Pro, Series X o Series S: ¿dónde se juega MEJOR?
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+GTA 6 en PS5, PS5 Pro, Xbox Series X o Series S: ¿dónde se juega mejor? Lo confirmado, los FPS, la versión de PS5 Pro, el espacio en Series S y mi consejo si vas a comprar consola.
+
+⏱️ CAPÍTULOS
+0:00 La gran pregunta
+0:12 Lo confirmado
+0:23 Los FPS
+0:36 PS5 Pro
+0:48 Series S
+1:01 Mi consejo
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #GTA6PS5
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 ps5 pro, gta 6 series s, gta 6 xbox series x, gta 6 fps, gta 6 rendimiento, gta 6 que consola comprar
+
+=============== VIDEO 09 ===============
+ARCHIVO: 09-consejos-primera-noche.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 16:00
+TÍTULO:
+10 cosas que DEBES hacer antes de tu primera noche en GTA 6
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+10 cosas que debes hacer antes de tu primera noche en GTA 6: precarga, actualizaciones, espacio, cómo evitar spoilers, ajustes de brillo, HDR y subtítulos, y consejos para disfrutar las primeras horas.
+
+⏱️ CAPÍTULOS
+0:00 La noche más esperada
+0:12 1 — 3
+0:22 4 — 5 · anti spoilers
+0:39 6 — 7 · ajustes
+0:53 8 — 10 · a jugar
+1:11 ¿Y tú?
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #GTA6Consejos
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 consejos, gta 6 tips, gta 6 guia, gta 6 principiantes, gta 6 spoilers, gta 6 configuracion
+
+=============== VIDEO 06 ===============
+ARCHIVO: 06-mapa-leonida.mp4
+LISTA: GTA 6: historia, mapa y personajes
+FECHA Y HORA: 19 de noviembre de 2026, 18:00
+TÍTULO:
+El MAPA de GTA 6 explicado: las 6 regiones de Leonida
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+El mapa de GTA 6 explicado: las 6 regiones de Leonida (Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga) y en qué lugar real de Florida se inspira cada una.
+
+⏱️ CAPÍTULOS
+0:00 Bienvenido a Leonida
+0:14 1 · Vice City
+0:28 2 · Leonida Keys
+0:39 3 · Grassrivers / 4 · Port Gellhorn
+0:57 5 · Ambrosia / 6 · Mount Kalaga
+1:17 ¿Qué tan grande es?
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #GTA6Mapa
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 mapa, mapa gta 6, leonida, vice city gta 6, gta 6 regiones, gta 6 florida, grassrivers, port gellhorn
+
+=============== VIDEO 07 ===============
+ARCHIVO: 07-jason-y-lucia.mp4
+LISTA: GTA 6: historia, mapa y personajes
+FECHA Y HORA: 19 de noviembre de 2026, 20:00
+TÍTULO:
+¿Quiénes son JASON y LUCÍA? Los protagonistas de GTA 6 (sin spoilers)
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+¿Quiénes son Jason Duval y Lucía Caminos, los protagonistas de GTA 6? Te cuento su historia según lo que ha mostrado Rockstar, sin spoilers, y quiénes son los personajes secundarios.
+
+⏱️ CAPÍTULOS
+0:00 Sin spoilers
+0:13 Lucía Caminos
+0:30 Jason Duval
+0:45 La pareja
+1:00 Los secundarios
+1:16 Tu apuesta
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #JasonYLucia
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 lucia, gta 6 jason, jason duval, lucia caminos, protagonistas gta 6, gta 6 personajes, gta 6 historia
+
+=============== VIDEO 10 ===============
+ARCHIVO: 10-historia-de-gta.mp4
+LISTA: GTA 6: historia, mapa y personajes
+FECHA Y HORA: 19 de noviembre de 2026, 22:00
+TÍTULO:
+De GTA 1 a GTA 6: la historia de la saga en 2 minutos
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+La historia de Grand Theft Auto en minutos: de GTA 1 (1997) a GTA III, Vice City, San Andreas, GTA IV y GTA V, hasta la llegada de GTA 6 el 19 de noviembre de 2026.
+
+⏱️ CAPÍTULOS
+0:00 Antes de empezar
+0:13 1997
+0:29 La era dorada
+0:43 La nueva generación
+0:59 La espera
+1:12 2026
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #HistoriaDeGTA
+&gt;&gt;&gt;
+ETIQUETAS:
+historia de gta, gta saga, gta san andreas, gta vice city, gta 5, gta 6, evolucion gta, todos los gta
+
+REGLAS PARA LOS SHORTS (después de los 10 videos):
+- Búscalos en Contenido &gt; pestaña Shorts (o Videos) por su ARCHIVO y pulsa &quot;Editar borrador&quot;.
+- Título, Descripción (sin &lt;&lt;&lt; &gt;&gt;&gt;), Público &quot;No es para niños&quot;, en &quot;Mostrar más&quot;: Contenido alterado = Sí, Etiquetas, Idioma Español, Categoría Videojuegos.
+- &quot;Video relacionado&quot;: elige el video cuyo título empieza por VIDEO RELACIONADO; si no aparece, déjalo vacío y avísame al final.
+- Lista: GTA 6: lo que tienes que saber. Sin pantalla final.
+- Visibilidad: Programar con su FECHA Y HORA.
+
+=============== SHORT S1 ===============
+ARCHIVO: S1-hora-gta6.mp4
+FECHA Y HORA: 18 de noviembre de 2026, 20:00
+VIDEO RELACIONADO: ¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre
+TÍTULO:
+¿A qué hora sale GTA 6 en tu país? ⏰ #GTA6 #Shorts
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+GTA 6 se desbloquea a medianoche, hora local, el 19 de noviembre. En la costa oeste de EE. UU., desde las 21:00 del miércoles 18.
+
+▶️ Video completo en el canal: «¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6, gta 6 hora, a que hora sale gta 6, gta 6 shorts
+
+=============== SHORT S2 ===============
+ARCHIVO: S2-cuanto-pesa.mp4
+FECHA Y HORA: 18 de noviembre de 2026, 21:00
+VIDEO RELACIONADO: ¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)
+TÍTULO:
+¿Te cabe GTA 6? 212 GB 😳 #GTA6 #Shorts
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+GTA 6 puede ocupar hasta 212 GB. Esto es lo que te queda libre en cada consola y cómo hacer sitio.
+
+▶️ Video completo en el canal: «¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 peso, cuanto pesa gta 6, gta 6 gb, gta 6 shorts
+
+=============== SHORT S4 ===============
+ARCHIVO: S4-estandar-o-ultimate.mp4
+FECHA Y HORA: 19 de noviembre de 2026, 10:00
+VIDEO RELACIONADO: GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar
+TÍTULO:
+GTA 6: ¿Estándar o Ultimate? 💰 #GTA6 #Shorts
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+Estándar (79,99 $) o Ultimate (99,99 $ según los reportes): la historia es la misma en las dos.
+
+▶️ Video completo en el canal: «GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 precio, gta 6 ultimate, gta 6 edicion, gta 6 shorts
+
+=============== SHORT S3 ===============
+ARCHIVO: S3-gta6-pc.mp4
+FECHA Y HORA: 19 de noviembre de 2026, 14:00
+VIDEO RELACIONADO: ¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)
+TÍTULO:
+¿GTA 6 sale en PC? La respuesta 💻 #GTA6 #Shorts
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+GTA 6 no sale en PC el 19 de noviembre, y no hay fecha. Cuidado con las webs que ofrecen descargas: son estafas.
+
+▶️ Video completo en el canal: «¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 pc, gta 6 pc fecha, gta 6 steam, gta 6 shorts
+
+=============== SHORT S5 ===============
+ARCHIVO: S5-regiones-leonida.mp4
+FECHA Y HORA: 19 de noviembre de 2026, 19:00
+VIDEO RELACIONADO: El MAPA de GTA 6 explicado: las 6 regiones de Leonida
+TÍTULO:
+Las 6 regiones de Leonida en GTA 6 🗺️ #GTA6 #Shorts
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+Las 6 regiones de Leonida en GTA 6: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga.
+
+▶️ Video completo en el canal: «El MAPA de GTA 6 explicado: las 6 regiones de Leonida»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 mapa, leonida, vice city, gta 6 shorts
+
+Cuando termines todo, dame una tabla resumen: video/short, título, fecha y hora programada, y cualquier cosa que no hayas podido hacer.</pre></div><hr><h1>Prompts para Claude en Chrome</h1><p>Úsalos en este orden. <b>Antes de cada prompt haz tú la parte de archivos</b>: la extensión no puede elegir archivos de tu ordenador.</p><h2>Antes de empezar (tú)</h2><p>1. YouTube Studio › <b>Crear › Subir videos</b> › selecciona los <b>10 MP4</b> de <code>videos/</code> › cuando empiecen a subirse, <b>cierra</b> la ventana. Quedan como borradores.</p><p>2. Repite con los <b>5 MP4</b> de <code>shorts/</code>.</p><p>3. Comprueba que existen las dos listas (si no, el prompt las crea).</p><h2>Prompt 1 · Videos 01, 03, 04, 05, 02</h2><p>Pégalo entero en el panel de Claude en Chrome con YouTube Studio abierto en <b>Contenido</b>.</p><div class="c"><button onclick="cp(2,this)">Copiar prompt</button><pre id="c2">Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí los videos y están en Contenido como BORRADORES. Quiero que edites cada borrador tú, en el navegador, uno por uno, con los datos de abajo. Reglas:
+
+- Para encontrar cada video, ve a Contenido y busca el borrador cuyo nombre de archivo coincida con &quot;ARCHIVO&quot; (el título provisional del borrador es el nombre del archivo). Pulsa &quot;Editar borrador&quot;.
+- Pantalla DETALLES:
+  · Título: pega TÍTULO exactamente.
+  · Descripción: pega DESCRIPCIÓN exactamente, con sus saltos de línea y emojis.
+  · Listas de reproducción: marca la lista LISTA (ya existe; si no existe, créala con ese nombre y visibilidad Pública).
+  · Público: &quot;No, no es contenido creado para niños&quot;.
+  · Pulsa &quot;Mostrar más&quot;: Contenido alterado o sintético = Sí. Etiquetas: pega ETIQUETAS. Idioma del video: Español. Categoría: Videojuegos.
+  · NO toques la miniatura ni los subtítulos: los subo yo.
+- Pantalla ELEMENTOS DEL VIDEO:
+  · Pantalla final: si ya configuraste otro video, usa &quot;Importar desde video&quot; y elige ese. Si es el primero: añade &quot;Video &gt; El más reciente&quot; encima del recuadro izquierdo que dice SIGUIENTE VIDEO, &quot;Video &gt; Mejor para el espectador&quot; encima del recuadro derecho que dice TE RECOMIENDO, y &quot;Suscribirse&quot; debajo del texto ¡SUSCRÍBETE! (todo en los últimos 10 segundos). Guarda.
+  · NO añadas tarjetas ni subtítulos.
+- Pantalla COMPROBACIONES: espera a que termine y continúa.
+- Pantalla VISIBILIDAD: elige &quot;Programar&quot; y pon la FECHA Y HORA indicada (año 2026, noviembre, hora local de la cuenta). Pulsa &quot;Programar&quot;.
+- Si algo no coincide con estas instrucciones, si un botón no existe o si YouTube muestra un aviso o error, PARA y pregúntame. No publiques nada como &quot;Público&quot; inmediato. No borres nada.
+- Al terminar cada video dime &quot;Video XX listo&quot; y sigue con el siguiente. Al final dame un resumen con lo que quedó programado y cualquier problema.
+
+Edita estos 5 videos en este orden (la DESCRIPCIÓN va entre &lt;&lt;&lt; y &gt;&gt;&gt;; no pegues esos símbolos):
+
+=============== VIDEO 01 ===============
+ARCHIVO: 01-hora-de-salida.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 18 de noviembre de 2026, 18:00
+TÍTULO:
+¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+¿A qué hora sale GTA 6? El juego se desbloquea a medianoche, hora local, el 19 de noviembre de 2026. Te explico el horario en España, México, Argentina, Colombia, Chile y Estados Unidos, qué revisar antes de la medianoche y qué hacer si llega la hora y GTA 6 no te abre en PS5 o Xbox.
+
+⏱️ CAPÍTULOS
+0:00 Hoy es el día
+0:16 Cómo funciona el desbloqueo
+0:29 Horario por país
+0:50 Ojo con Xbox
+1:02 Antes de la medianoche
+1:21 No me abre en PS5
+1:42 No me abre en Xbox
+2:03 Resumen
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #GTA6HoraDeSalida
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6, gta 6 hora, a que hora sale gta 6, gta 6 horario, gta 6 lanzamiento, gta vi, gta 6 ps5, gta 6 xbox
+
+=============== VIDEO 03 ===============
+ARCHIVO: 03-cuanto-pesa.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 18 de noviembre de 2026, 19:00
+TÍTULO:
+¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+¿Cuánto pesa GTA 6? Hasta 212 GB según Rockstar. Te enseño cuánto espacio libre tiene cada consola (PS5, PS5 Slim, Xbox Series X y Series S) y cómo liberar espacio paso a paso para que te quepa el juego y el parche del día uno.
+
+⏱️ CAPÍTULOS
+0:00 La cifra
+0:13 ¿Cuánto espacio tienes?
+0:27 Paso 1
+0:43 Paso 2 / Paso 3 · disco externo
+1:11 El truco del parche
+1:23 Resumen
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #GTA6Peso
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 peso, cuanto pesa gta 6, gta 6 gb, gta 6 espacio, liberar espacio ps5, gta 6 precarga, gta 6 ssd
+
+=============== VIDEO 04 ===============
+ARCHIVO: 04-precio-ediciones.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 08:00
+TÍTULO:
+GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+GTA 6: ¿edición Estándar o Ultimate? Comparo precios, qué incluye cada una, si conviene la física o la digital, y cuál te recomiendo comprar según cómo vayas a jugar.
+
+⏱️ CAPÍTULOS
+0:00 La duda del momento
+0:11 Los precios
+0:28 Qué trae la Ultimate
+0:41 Físico o digital
+0:55 Mi recomendación
+1:10 Antes de pagar
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #GTA6Precio
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 precio, gta 6 ultimate edition, gta 6 edicion estandar, cuanto cuesta gta 6, gta 6 comprar, gta 6 fisico
+
+=============== VIDEO 05 ===============
+ARCHIVO: 05-gta6-pc.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 09:00
+TÍTULO:
+¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+¿GTA 6 sale en PC? No el 19 de noviembre. Te cuento qué se sabe de la versión de PC, cuánto tardaron GTA IV, GTA V y Red Dead Redemption 2 en llegar a ordenador, cómo jugar desde el PC si tienes consola y cuidado con las estafas.
+
+⏱️ CAPÍTULOS
+0:00 La respuesta corta
+0:14 La historia se repite
+0:34 Cuidado con las estafas
+0:46 Jugar desde el PC hoy
+1:04 ¿Y los requisitos?
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #GTA6PC
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6 pc, gta 6 pc fecha, gta 6 pc requisitos, gta 6 steam, gta 6 xbox cloud, gta 6 pc cuando sale
+
+=============== VIDEO 02 ===============
+ARCHIVO: 02-todo-lo-que-sabemos.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 12:00
+TÍTULO:
+GTA 6: TODO lo que necesitas saber antes de jugar (resumen rápido, sin spoilers)
+DESCRIPCIÓN:
+&lt;&lt;&lt;
+Todo lo que necesitas saber de GTA 6 antes de jugar, en menos de 3 minutos y sin spoilers: fecha de salida, plataformas, el mapa de Leonida, Jason y Lucía, precio de las ediciones, cuánto ocupa y lo que todavía no sabemos.
+
+⏱️ CAPÍTULOS
+0:00 En 2 minutos
+0:12 La fecha
+0:30 Plataformas
+0:40 El lugar: Leonida
+0:54 Los protagonistas
+1:08 Precio
+1:23 El tamaño
+1:33 Lo que no sabemos
+1:45 Nos vemos en Leonida
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como &quot;según los reportes&quot;.
+
+#GTA6 #GTAVI #GTA6Resumen
+&gt;&gt;&gt;
+ETIQUETAS:
+gta 6, gta 6 resumen, gta 6 todo lo que sabemos, gta 6 historia, gta 6 jason lucia, leonida, vice city, gta vi
+</pre></div><h2>Prompt 2 · Videos 08, 09, 06, 07, 10</h2><p>Cuando termine el anterior, abre un chat nuevo en la extensión (icono de nuevo chat) y pega este.</p><div class="c"><button onclick="cp(3,this)">Copiar prompt</button><pre id="c3">Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí los videos y están en Contenido como BORRADORES. Quiero que edites cada borrador tú, en el navegador, uno por uno, con los datos de abajo. Reglas:
 
 - Para encontrar cada video, ve a Contenido y busca el borrador cuyo nombre de archivo coincida con &quot;ARCHIVO&quot; (el título provisional del borrador es el nombre del archivo). Pulsa &quot;Editar borrador&quot;.
 - Pantalla DETALLES:
@@ -249,8 +646,8 @@ El mapa de GTA 6 explicado: las 6 regiones de Leonida (Vice City, Leonida Keys, 
 0:00 Bienvenido a Leonida
 0:14 1 · Vice City
 0:28 2 · Leonida Keys
-0:39 3 · Grassrivers
-0:57 5 · Ambrosia
+0:39 3 · Grassrivers / 4 · Port Gellhorn
+0:57 5 · Ambrosia / 6 · Mount Kalaga
 1:17 ¿Qué tan grande es?
 
 🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
@@ -294,7 +691,7 @@ ARCHIVO: 10-historia-de-gta.mp4
 LISTA: GTA 6: historia, mapa y personajes
 FECHA Y HORA: 19 de noviembre de 2026, 22:00
 TÍTULO:
-De GTA 1 a GTA 6: la historia de la saga en 5 minutos
+De GTA 1 a GTA 6: la historia de la saga en 2 minutos
 DESCRIPCIÓN:
 &lt;&lt;&lt;
 La historia de Grand Theft Auto en minutos: de GTA 1 (1997) a GTA III, Vice City, San Andreas, GTA IV y GTA V, hasta la llegada de GTA 6 el 19 de noviembre de 2026.
@@ -315,7 +712,7 @@ La historia de Grand Theft Auto en minutos: de GTA 1 (1997) a GTA III, Vice City
 &gt;&gt;&gt;
 ETIQUETAS:
 historia de gta, gta saga, gta san andreas, gta vice city, gta 5, gta 6, evolucion gta, todos los gta
-</pre></div><h2>Prompt 3 · Los 5 Shorts</h2><div class="campo"><button onclick="copiar(3,this)">Copiar prompt 3</button><pre id="c3">Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí 5 Shorts y están en Contenido como BORRADORES (pestaña Shorts o Videos). Edita cada borrador tú, uno por uno:
+</pre></div><h2>Prompt 3 · Los 5 Shorts</h2><div class="c"><button onclick="cp(4,this)">Copiar prompt</button><pre id="c4">Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí 5 Shorts y están en Contenido como BORRADORES (pestaña Shorts o Videos). Edita cada borrador tú, uno por uno:
 
 - Búscalo por su nombre de archivo (ARCHIVO) y pulsa &quot;Editar borrador&quot;.
 - DETALLES: Título = TÍTULO. Descripción = DESCRIPCIÓN (entre &lt;&lt;&lt; y &gt;&gt;&gt;, sin esos símbolos). Público: &quot;No, no es contenido creado para niños&quot;. En &quot;Mostrar más&quot;: Contenido alterado o sintético = Sí; Etiquetas = ETIQUETAS; Idioma: Español; Categoría: Videojuegos. En &quot;Video relacionado&quot;, si te deja, elige el video cuyo título empieza por VIDEO RELACIONADO; si no aparece, déjalo vacío y avísame.
@@ -419,4 +816,4 @@ Las 6 regiones de Leonida en GTA 6: Vice City, Leonida Keys, Grassrivers, Port G
 &gt;&gt;&gt;
 ETIQUETAS:
 gta 6 mapa, leonida, vice city, gta 6 shorts
-</pre></div><h2>Al final (tú, 10 minutos)</h2><p>Para cada uno de los 10 videos: <b>Contenido › lápiz (Detalles)</b>:</p><p class="li">- <b>Miniatura</b> › Subir archivo › <code>miniaturas/</code> el del mismo número › <b>Guardar</b></p><p class="li">- <b>Subtítulos</b> (menú izquierdo) › Añadir idioma Español › <b>Subir archivo › Con sincronización</b> › el <code>.srt</code> de <code>subtitulos/</code></p><p><b>Hazlo antes del miércoles 18 a las 18:00</b>, que es cuando sale el primero (01).</p><script>function copiar(n,b){const t=b.textContent;navigator.clipboard.writeText(document.getElementById('c'+n).innerText).then(()=>{b.textContent='¡Copiado!';b.classList.add('ok');setTimeout(()=>{b.textContent=t;b.classList.remove('ok')},1500)})}</script></body></html>
+</pre></div><h2>Al final (tú, 10 minutos)</h2><p>Para cada uno de los 10 videos: <b>Contenido › lápiz (Detalles)</b>:</p><p>- <b>Miniatura</b> › Subir archivo › <code>miniaturas/</code> el del mismo número › <b>Guardar</b></p><p>- <b>Subtítulos</b> (menú izquierdo) › Añadir idioma Español › <b>Subir archivo › Con sincronización</b> › el <code>.srt</code> de <code>subtitulos/</code></p><p><b>Hazlo antes del miércoles 18 a las 18:00</b>, que es cuando sale el primero (01).</p><script>function cp(n,b){const t=b.textContent;navigator.clipboard.writeText(document.getElementById("c"+n).innerText).then(()=>{b.textContent="¡Copiado!";b.classList.add("ok");setTimeout(()=>{b.textContent=t;b.classList.remove("ok")},1500)})}</script></body></html>

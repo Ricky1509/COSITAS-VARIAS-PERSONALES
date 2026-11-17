@@ -15,8 +15,8 @@ El mapa de GTA 6 explicado: las 6 regiones de Leonida (Vice City, Leonida Keys, 
 0:00 Bienvenido a Leonida
 0:14 1 · Vice City
 0:28 2 · Leonida Keys
-0:39 3 · Grassrivers
-0:57 5 · Ambrosia
+0:39 3 · Grassrivers / 4 · Port Gellhorn
+0:57 5 · Ambrosia / 6 · Mount Kalaga
 1:17 ¿Qué tan grande es?
 
 🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.

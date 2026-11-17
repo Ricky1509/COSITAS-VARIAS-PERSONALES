@@ -1,11 +1,11 @@
-# 10 · De GTA 1 a GTA 6: la historia de la saga en 5 minutos
+# 10 · De GTA 1 a GTA 6: la historia de la saga en 2 minutos
 
 **Archivo:** `videos/10-historia-de-gta.mp4`  
 **Miniatura:** `miniaturas/10-historia-de-gta.png`  
 **Subtítulos:** `subtitulos/10-historia-de-gta.es.srt`
 
 ## Título
-De GTA 1 a GTA 6: la historia de la saga en 5 minutos
+De GTA 1 a GTA 6: la historia de la saga en 2 minutos
 
 ## Descripción
 ```

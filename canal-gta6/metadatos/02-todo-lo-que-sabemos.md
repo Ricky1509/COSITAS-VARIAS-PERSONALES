@@ -1,21 +1,21 @@
-# 02 · GTA 6: TODO lo que necesitas saber antes de jugar (resumen en 4 minutos)
+# 02 · GTA 6: TODO lo que necesitas saber antes de jugar (resumen rápido, sin spoilers)
 
 **Archivo:** `videos/02-todo-lo-que-sabemos.mp4`  
 **Miniatura:** `miniaturas/02-todo-lo-que-sabemos.png`  
 **Subtítulos:** `subtitulos/02-todo-lo-que-sabemos.es.srt`
 
 ## Título
-GTA 6: TODO lo que necesitas saber antes de jugar (resumen en 4 minutos)
+GTA 6: TODO lo que necesitas saber antes de jugar (resumen rápido, sin spoilers)
 
 ## Descripción
 ```
 Todo lo que necesitas saber de GTA 6 antes de jugar, en menos de 3 minutos y sin spoilers: fecha de salida, plataformas, el mapa de Leonida, Jason y Lucía, precio de las ediciones, cuánto ocupa y lo que todavía no sabemos.
 
 ⏱️ CAPÍTULOS
-0:00 En 4 minutos
-0:13 La fecha
+0:00 En 2 minutos
+0:12 La fecha
 0:30 Plataformas
-0:41 El lugar: Leonida
+0:40 El lugar: Leonida
 0:54 Los protagonistas
 1:08 Precio
 1:23 El tamaño
@@ -34,10 +34,10 @@ gta 6, gta 6 resumen, gta 6 todo lo que sabemos, gta 6 historia, gta 6 jason luc
 
 ## Guion
 
-**[EN 4 MINUTOS]**
+**[EN 2 MINUTOS]**
 
 > Si no has seguido cada noticia de los últimos años, este video es para ti.
-> Te resumo todo lo importante de GTA seis en unos cuatro minutos, sin spoilers de la historia.
+> Te resumo todo lo importante de GTA seis en un par de minutos, sin spoilers de la historia.
 
 **[LA FECHA]**
 

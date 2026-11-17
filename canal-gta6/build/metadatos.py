@@ -24,6 +24,7 @@ def capitulos(caps):
     out = [(0.0, cap(caps[0]["h"]))]
     for c in caps[1:]:
         if c["ini"] - out[-1][0] >= 10: out.append((c["ini"], cap(c["h"])))
+        else: out[-1] = (out[-1][0], out[-1][1] + " / " + cap(c["h"]))  # capítulo corto: se une al anterior
     return "\n".join(f"{mmss(t)} {h}" for t, h in out)
 
 HASHTAG = {"01": "GTA6HoraDeSalida", "02": "GTA6Resumen", "03": "GTA6Peso", "04": "GTA6Precio", "05": "GTA6PC",
