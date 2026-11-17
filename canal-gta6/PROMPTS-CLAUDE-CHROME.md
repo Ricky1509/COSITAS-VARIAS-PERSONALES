@@ -1,0 +1,457 @@
+# Prompts para Claude en Chrome
+
+Úsalos en este orden. **Antes de cada prompt haz tú la parte de archivos**: la extensión no puede elegir archivos de tu ordenador.
+
+## Antes de empezar (tú)
+1. YouTube Studio › **Crear › Subir videos** › selecciona los **10 MP4** de `videos/` › cuando empiecen a subirse, **cierra** la ventana. Quedan como borradores.
+2. Repite con los **5 MP4** de `shorts/`.
+3. Comprueba que existen las dos listas (si no, el prompt las crea).
+
+## Prompt 1 · Videos 01, 03, 04, 05, 02
+Pégalo entero en el panel de Claude en Chrome con YouTube Studio abierto en **Contenido**.
+
+### PROMPT 1
+
+```
+Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí los videos y están en Contenido como BORRADORES. Quiero que edites cada borrador tú, en el navegador, uno por uno, con los datos de abajo. Reglas:
+
+- Para encontrar cada video, ve a Contenido y busca el borrador cuyo nombre de archivo coincida con "ARCHIVO" (el título provisional del borrador es el nombre del archivo). Pulsa "Editar borrador".
+- Pantalla DETALLES:
+  · Título: pega TÍTULO exactamente.
+  · Descripción: pega DESCRIPCIÓN exactamente, con sus saltos de línea y emojis.
+  · Listas de reproducción: marca la lista LISTA (ya existe; si no existe, créala con ese nombre y visibilidad Pública).
+  · Público: "No, no es contenido creado para niños".
+  · Pulsa "Mostrar más": Contenido alterado o sintético = Sí. Etiquetas: pega ETIQUETAS. Idioma del video: Español. Categoría: Videojuegos.
+  · NO toques la miniatura ni los subtítulos: los subo yo.
+- Pantalla ELEMENTOS DEL VIDEO:
+  · Pantalla final: si ya configuraste otro video, usa "Importar desde video" y elige ese. Si es el primero: añade "Video > El más reciente" encima del recuadro izquierdo que dice SIGUIENTE VIDEO, "Video > Mejor para el espectador" encima del recuadro derecho que dice TE RECOMIENDO, y "Suscribirse" debajo del texto ¡SUSCRÍBETE! (todo en los últimos 10 segundos). Guarda.
+  · NO añadas tarjetas ni subtítulos.
+- Pantalla COMPROBACIONES: espera a que termine y continúa.
+- Pantalla VISIBILIDAD: elige "Programar" y pon la FECHA Y HORA indicada (año 2026, noviembre, hora local de la cuenta). Pulsa "Programar".
+- Si algo no coincide con estas instrucciones, si un botón no existe o si YouTube muestra un aviso o error, PARA y pregúntame. No publiques nada como "Público" inmediato. No borres nada.
+- Al terminar cada video dime "Video XX listo" y sigue con el siguiente. Al final dame un resumen con lo que quedó programado y cualquier problema.
+
+Edita estos 5 videos en este orden (la DESCRIPCIÓN va entre <<< y >>>; no pegues esos símbolos):
+
+=============== VIDEO 01 ===============
+ARCHIVO: 01-hora-de-salida.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 18 de noviembre de 2026, 18:00
+TÍTULO:
+¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre
+DESCRIPCIÓN:
+<<<
+¿A qué hora sale GTA 6? El juego se desbloquea a medianoche, hora local, el 19 de noviembre de 2026. Te explico el horario en España, México, Argentina, Colombia, Chile y Estados Unidos, qué revisar antes de la medianoche y qué hacer si llega la hora y GTA 6 no te abre en PS5 o Xbox.
+
+⏱️ CAPÍTULOS
+0:00 Hoy es el día
+0:16 Cómo funciona el desbloqueo
+0:29 Horario por país
+0:50 Ojo con Xbox
+1:02 Antes de la medianoche
+1:21 No me abre en PS5
+1:42 No me abre en Xbox
+2:03 Resumen
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #GTA6HoraDeSalida
+>>>
+ETIQUETAS:
+gta 6, gta 6 hora, a que hora sale gta 6, gta 6 horario, gta 6 lanzamiento, gta vi, gta 6 ps5, gta 6 xbox
+
+=============== VIDEO 03 ===============
+ARCHIVO: 03-cuanto-pesa.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 18 de noviembre de 2026, 19:00
+TÍTULO:
+¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)
+DESCRIPCIÓN:
+<<<
+¿Cuánto pesa GTA 6? Hasta 212 GB según Rockstar. Te enseño cuánto espacio libre tiene cada consola (PS5, PS5 Slim, Xbox Series X y Series S) y cómo liberar espacio paso a paso para que te quepa el juego y el parche del día uno.
+
+⏱️ CAPÍTULOS
+0:00 La cifra
+0:13 ¿Cuánto espacio tienes?
+0:27 Paso 1
+0:43 Paso 2
+1:11 El truco del parche
+1:23 Resumen
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #GTA6Peso
+>>>
+ETIQUETAS:
+gta 6 peso, cuanto pesa gta 6, gta 6 gb, gta 6 espacio, liberar espacio ps5, gta 6 precarga, gta 6 ssd
+
+=============== VIDEO 04 ===============
+ARCHIVO: 04-precio-ediciones.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 08:00
+TÍTULO:
+GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar
+DESCRIPCIÓN:
+<<<
+GTA 6: ¿edición Estándar o Ultimate? Comparo precios, qué incluye cada una, si conviene la física o la digital, y cuál te recomiendo comprar según cómo vayas a jugar.
+
+⏱️ CAPÍTULOS
+0:00 La duda del momento
+0:11 Los precios
+0:28 Qué trae la Ultimate
+0:41 Físico o digital
+0:55 Mi recomendación
+1:10 Antes de pagar
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #GTA6Precio
+>>>
+ETIQUETAS:
+gta 6 precio, gta 6 ultimate edition, gta 6 edicion estandar, cuanto cuesta gta 6, gta 6 comprar, gta 6 fisico
+
+=============== VIDEO 05 ===============
+ARCHIVO: 05-gta6-pc.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 09:00
+TÍTULO:
+¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)
+DESCRIPCIÓN:
+<<<
+¿GTA 6 sale en PC? No el 19 de noviembre. Te cuento qué se sabe de la versión de PC, cuánto tardaron GTA IV, GTA V y Red Dead Redemption 2 en llegar a ordenador, cómo jugar desde el PC si tienes consola y cuidado con las estafas.
+
+⏱️ CAPÍTULOS
+0:00 La respuesta corta
+0:14 La historia se repite
+0:34 Cuidado con las estafas
+0:46 Jugar desde el PC hoy
+1:04 ¿Y los requisitos?
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #GTA6PC
+>>>
+ETIQUETAS:
+gta 6 pc, gta 6 pc fecha, gta 6 pc requisitos, gta 6 steam, gta 6 xbox cloud, gta 6 pc cuando sale
+
+=============== VIDEO 02 ===============
+ARCHIVO: 02-todo-lo-que-sabemos.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 12:00
+TÍTULO:
+GTA 6: TODO lo que necesitas saber antes de jugar (resumen en 4 minutos)
+DESCRIPCIÓN:
+<<<
+Todo lo que necesitas saber de GTA 6 antes de jugar, en menos de 3 minutos y sin spoilers: fecha de salida, plataformas, el mapa de Leonida, Jason y Lucía, precio de las ediciones, cuánto ocupa y lo que todavía no sabemos.
+
+⏱️ CAPÍTULOS
+0:00 En 4 minutos
+0:13 La fecha
+0:30 Plataformas
+0:41 El lugar: Leonida
+0:54 Los protagonistas
+1:08 Precio
+1:23 El tamaño
+1:33 Lo que no sabemos
+1:45 Nos vemos en Leonida
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #GTA6Resumen
+>>>
+ETIQUETAS:
+gta 6, gta 6 resumen, gta 6 todo lo que sabemos, gta 6 historia, gta 6 jason lucia, leonida, vice city, gta vi
+
+```
+
+## Prompt 2 · Videos 08, 09, 06, 07, 10
+Cuando termine el anterior, abre un chat nuevo en la extensión (icono de nuevo chat) y pega este.
+
+### PROMPT 2
+
+```
+Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí los videos y están en Contenido como BORRADORES. Quiero que edites cada borrador tú, en el navegador, uno por uno, con los datos de abajo. Reglas:
+
+- Para encontrar cada video, ve a Contenido y busca el borrador cuyo nombre de archivo coincida con "ARCHIVO" (el título provisional del borrador es el nombre del archivo). Pulsa "Editar borrador".
+- Pantalla DETALLES:
+  · Título: pega TÍTULO exactamente.
+  · Descripción: pega DESCRIPCIÓN exactamente, con sus saltos de línea y emojis.
+  · Listas de reproducción: marca la lista LISTA (ya existe; si no existe, créala con ese nombre y visibilidad Pública).
+  · Público: "No, no es contenido creado para niños".
+  · Pulsa "Mostrar más": Contenido alterado o sintético = Sí. Etiquetas: pega ETIQUETAS. Idioma del video: Español. Categoría: Videojuegos.
+  · NO toques la miniatura ni los subtítulos: los subo yo.
+- Pantalla ELEMENTOS DEL VIDEO:
+  · Pantalla final: si ya configuraste otro video, usa "Importar desde video" y elige ese. Si es el primero: añade "Video > El más reciente" encima del recuadro izquierdo que dice SIGUIENTE VIDEO, "Video > Mejor para el espectador" encima del recuadro derecho que dice TE RECOMIENDO, y "Suscribirse" debajo del texto ¡SUSCRÍBETE! (todo en los últimos 10 segundos). Guarda.
+  · NO añadas tarjetas ni subtítulos.
+- Pantalla COMPROBACIONES: espera a que termine y continúa.
+- Pantalla VISIBILIDAD: elige "Programar" y pon la FECHA Y HORA indicada (año 2026, noviembre, hora local de la cuenta). Pulsa "Programar".
+- Si algo no coincide con estas instrucciones, si un botón no existe o si YouTube muestra un aviso o error, PARA y pregúntame. No publiques nada como "Público" inmediato. No borres nada.
+- Al terminar cada video dime "Video XX listo" y sigue con el siguiente. Al final dame un resumen con lo que quedó programado y cualquier problema.
+
+Edita estos 5 videos en este orden (la DESCRIPCIÓN va entre <<< y >>>; no pegues esos símbolos):
+
+=============== VIDEO 08 ===============
+ARCHIVO: 08-que-consola.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 13:00
+TÍTULO:
+GTA 6 en PS5, PS5 Pro, Series X o Series S: ¿dónde se juega MEJOR?
+DESCRIPCIÓN:
+<<<
+GTA 6 en PS5, PS5 Pro, Xbox Series X o Series S: ¿dónde se juega mejor? Lo confirmado, los FPS, la versión de PS5 Pro, el espacio en Series S y mi consejo si vas a comprar consola.
+
+⏱️ CAPÍTULOS
+0:00 La gran pregunta
+0:12 Lo confirmado
+0:23 Los FPS
+0:36 PS5 Pro
+0:48 Series S
+1:01 Mi consejo
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #GTA6PS5
+>>>
+ETIQUETAS:
+gta 6 ps5 pro, gta 6 series s, gta 6 xbox series x, gta 6 fps, gta 6 rendimiento, gta 6 que consola comprar
+
+=============== VIDEO 09 ===============
+ARCHIVO: 09-consejos-primera-noche.mp4
+LISTA: GTA 6: lo que tienes que saber
+FECHA Y HORA: 19 de noviembre de 2026, 16:00
+TÍTULO:
+10 cosas que DEBES hacer antes de tu primera noche en GTA 6
+DESCRIPCIÓN:
+<<<
+10 cosas que debes hacer antes de tu primera noche en GTA 6: precarga, actualizaciones, espacio, cómo evitar spoilers, ajustes de brillo, HDR y subtítulos, y consejos para disfrutar las primeras horas.
+
+⏱️ CAPÍTULOS
+0:00 La noche más esperada
+0:12 1 — 3
+0:22 4 — 5 · anti spoilers
+0:39 6 — 7 · ajustes
+0:53 8 — 10 · a jugar
+1:11 ¿Y tú?
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #GTA6Consejos
+>>>
+ETIQUETAS:
+gta 6 consejos, gta 6 tips, gta 6 guia, gta 6 principiantes, gta 6 spoilers, gta 6 configuracion
+
+=============== VIDEO 06 ===============
+ARCHIVO: 06-mapa-leonida.mp4
+LISTA: GTA 6: historia, mapa y personajes
+FECHA Y HORA: 19 de noviembre de 2026, 18:00
+TÍTULO:
+El MAPA de GTA 6 explicado: las 6 regiones de Leonida
+DESCRIPCIÓN:
+<<<
+El mapa de GTA 6 explicado: las 6 regiones de Leonida (Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga) y en qué lugar real de Florida se inspira cada una.
+
+⏱️ CAPÍTULOS
+0:00 Bienvenido a Leonida
+0:14 1 · Vice City
+0:28 2 · Leonida Keys
+0:39 3 · Grassrivers
+0:57 5 · Ambrosia
+1:17 ¿Qué tan grande es?
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #GTA6Mapa
+>>>
+ETIQUETAS:
+gta 6 mapa, mapa gta 6, leonida, vice city gta 6, gta 6 regiones, gta 6 florida, grassrivers, port gellhorn
+
+=============== VIDEO 07 ===============
+ARCHIVO: 07-jason-y-lucia.mp4
+LISTA: GTA 6: historia, mapa y personajes
+FECHA Y HORA: 19 de noviembre de 2026, 20:00
+TÍTULO:
+¿Quiénes son JASON y LUCÍA? Los protagonistas de GTA 6 (sin spoilers)
+DESCRIPCIÓN:
+<<<
+¿Quiénes son Jason Duval y Lucía Caminos, los protagonistas de GTA 6? Te cuento su historia según lo que ha mostrado Rockstar, sin spoilers, y quiénes son los personajes secundarios.
+
+⏱️ CAPÍTULOS
+0:00 Sin spoilers
+0:13 Lucía Caminos
+0:30 Jason Duval
+0:45 La pareja
+1:00 Los secundarios
+1:16 Tu apuesta
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #JasonYLucia
+>>>
+ETIQUETAS:
+gta 6 lucia, gta 6 jason, jason duval, lucia caminos, protagonistas gta 6, gta 6 personajes, gta 6 historia
+
+=============== VIDEO 10 ===============
+ARCHIVO: 10-historia-de-gta.mp4
+LISTA: GTA 6: historia, mapa y personajes
+FECHA Y HORA: 19 de noviembre de 2026, 22:00
+TÍTULO:
+De GTA 1 a GTA 6: la historia de la saga en 5 minutos
+DESCRIPCIÓN:
+<<<
+La historia de Grand Theft Auto en minutos: de GTA 1 (1997) a GTA III, Vice City, San Andreas, GTA IV y GTA V, hasta la llegada de GTA 6 el 19 de noviembre de 2026.
+
+⏱️ CAPÍTULOS
+0:00 Antes de empezar
+0:13 1997
+0:29 La era dorada
+0:43 La nueva generación
+0:59 La espera
+1:12 2026
+
+🔔 Suscríbete a PUNTO NEÓN: noticias y guías de GTA 6 en español. Guías nuevas cada día desde el lanzamiento.
+
+⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
+
+#GTA6 #GTAVI #HistoriaDeGTA
+>>>
+ETIQUETAS:
+historia de gta, gta saga, gta san andreas, gta vice city, gta 5, gta 6, evolucion gta, todos los gta
+
+```
+
+## Prompt 3 · Los 5 Shorts
+
+### PROMPT 3
+
+```
+Estoy en YouTube Studio (canal PUNTO NEÓN). Ya subí 5 Shorts y están en Contenido como BORRADORES (pestaña Shorts o Videos). Edita cada borrador tú, uno por uno:
+
+- Búscalo por su nombre de archivo (ARCHIVO) y pulsa "Editar borrador".
+- DETALLES: Título = TÍTULO. Descripción = DESCRIPCIÓN (entre <<< y >>>, sin esos símbolos). Público: "No, no es contenido creado para niños". En "Mostrar más": Contenido alterado o sintético = Sí; Etiquetas = ETIQUETAS; Idioma: Español; Categoría: Videojuegos. En "Video relacionado", si te deja, elige el video cuyo título empieza por VIDEO RELACIONADO; si no aparece, déjalo vacío y avísame.
+- Lista: GTA 6: lo que tienes que saber (para todos).
+- No añadas pantalla final (los Shorts no la usan).
+- VISIBILIDAD: "Programar" con la FECHA Y HORA indicada (2026, hora local de la cuenta).
+- Si algo no coincide o hay un aviso, PARA y pregúntame. No publiques nada al momento. No borres nada.
+- Al terminar dime "Short SX listo" y al final dame un resumen.
+
+=============== SHORT S1 ===============
+ARCHIVO: S1-hora-gta6.mp4
+FECHA Y HORA: 18 de noviembre de 2026, 20:00
+VIDEO RELACIONADO: ¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre
+TÍTULO:
+¿A qué hora sale GTA 6 en tu país? ⏰ #GTA6 #Shorts
+DESCRIPCIÓN:
+<<<
+GTA 6 se desbloquea a medianoche, hora local, el 19 de noviembre. En la costa oeste de EE. UU., desde las 21:00 del miércoles 18.
+
+▶️ Video completo en el canal: «¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+>>>
+ETIQUETAS:
+gta 6, gta 6 hora, a que hora sale gta 6, gta 6 shorts
+
+=============== SHORT S2 ===============
+ARCHIVO: S2-cuanto-pesa.mp4
+FECHA Y HORA: 18 de noviembre de 2026, 21:00
+VIDEO RELACIONADO: ¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)
+TÍTULO:
+¿Te cabe GTA 6? 212 GB 😳 #GTA6 #Shorts
+DESCRIPCIÓN:
+<<<
+GTA 6 puede ocupar hasta 212 GB. Esto es lo que te queda libre en cada consola y cómo hacer sitio.
+
+▶️ Video completo en el canal: «¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+>>>
+ETIQUETAS:
+gta 6 peso, cuanto pesa gta 6, gta 6 gb, gta 6 shorts
+
+=============== SHORT S4 ===============
+ARCHIVO: S4-estandar-o-ultimate.mp4
+FECHA Y HORA: 19 de noviembre de 2026, 10:00
+VIDEO RELACIONADO: GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar
+TÍTULO:
+GTA 6: ¿Estándar o Ultimate? 💰 #GTA6 #Shorts
+DESCRIPCIÓN:
+<<<
+Estándar (79,99 $) o Ultimate (99,99 $ según los reportes): la historia es la misma en las dos.
+
+▶️ Video completo en el canal: «GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+>>>
+ETIQUETAS:
+gta 6 precio, gta 6 ultimate, gta 6 edicion, gta 6 shorts
+
+=============== SHORT S3 ===============
+ARCHIVO: S3-gta6-pc.mp4
+FECHA Y HORA: 19 de noviembre de 2026, 14:00
+VIDEO RELACIONADO: ¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)
+TÍTULO:
+¿GTA 6 sale en PC? La respuesta 💻 #GTA6 #Shorts
+DESCRIPCIÓN:
+<<<
+GTA 6 no sale en PC el 19 de noviembre, y no hay fecha. Cuidado con las webs que ofrecen descargas: son estafas.
+
+▶️ Video completo en el canal: «¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+>>>
+ETIQUETAS:
+gta 6 pc, gta 6 pc fecha, gta 6 steam, gta 6 shorts
+
+=============== SHORT S5 ===============
+ARCHIVO: S5-regiones-leonida.mp4
+FECHA Y HORA: 19 de noviembre de 2026, 19:00
+VIDEO RELACIONADO: El MAPA de GTA 6 explicado: las 6 regiones de Leonida
+TÍTULO:
+Las 6 regiones de Leonida en GTA 6 🗺️ #GTA6 #Shorts
+DESCRIPCIÓN:
+<<<
+Las 6 regiones de Leonida en GTA 6: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga.
+
+▶️ Video completo en el canal: «El MAPA de GTA 6 explicado: las 6 regiones de Leonida»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
+
+#GTA6 #GTAVI #Shorts
+>>>
+ETIQUETAS:
+gta 6 mapa, leonida, vice city, gta 6 shorts
+
+```
+
+## Al final (tú, 10 minutos)
+Para cada uno de los 10 videos: **Contenido › lápiz (Detalles)**:
+- **Miniatura** › Subir archivo › `miniaturas/` el del mismo número › **Guardar**
+- **Subtítulos** (menú izquierdo) › Añadir idioma Español › **Subir archivo › Con sincronización** › el `.srt` de `subtitulos/`
+
+**Hazlo antes del miércoles 18 a las 18:00**, que es cuando sale el primero (01).
