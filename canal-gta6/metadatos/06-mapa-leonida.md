@@ -9,7 +9,7 @@ El MAPA de GTA 6 explicado: las 6 regiones de Leonida
 
 ## Descripción
 ```
-Leonida es el estado ficticio donde transcurre GTA seis, la parodia de Rockstar de Florida. Rockstar ha confirmado seis regiones. Te las presento una por una, y qué representa cada una en la vida real.
+El mapa de GTA 6 explicado: las 6 regiones de Leonida (Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga) y en qué lugar real de Florida se inspira cada una.
 
 ⏱️ CAPÍTULOS
 0:00 Bienvenido a Leonida
@@ -23,7 +23,7 @@ Leonida es el estado ficticio donde transcurre GTA seis, la parodia de Rockstar 
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #MapaLeonida
+#GTA6 #GTAVI #GTA6Mapa
 ```
 
 ## Etiquetas

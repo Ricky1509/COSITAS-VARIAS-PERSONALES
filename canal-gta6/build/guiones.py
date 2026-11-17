@@ -316,3 +316,24 @@ dict(
             "¿Cuál ha sido tu GTA favorito hasta hoy? Te leo en los comentarios."] + CIERRE),
  ]),
 ]
+
+# Entradilla de la descripción de YouTube (escrita para leer, no para la voz)
+DESCRIPCIONES = {
+ "01": "¿A qué hora sale GTA 6? El juego se desbloquea a medianoche, hora local, el 19 de noviembre de 2026. Te explico el horario en España, México, Argentina, Colombia, Chile y Estados Unidos, qué revisar antes de la medianoche y qué hacer si llega la hora y GTA 6 no te abre en PS5 o Xbox.",
+ "02": "Todo lo que necesitas saber de GTA 6 antes de jugar, en menos de 3 minutos y sin spoilers: fecha de salida, plataformas, el mapa de Leonida, Jason y Lucía, precio de las ediciones, cuánto ocupa y lo que todavía no sabemos.",
+ "03": "¿Cuánto pesa GTA 6? Hasta 212 GB según Rockstar. Te enseño cuánto espacio libre tiene cada consola (PS5, PS5 Slim, Xbox Series X y Series S) y cómo liberar espacio paso a paso para que te quepa el juego y el parche del día uno.",
+ "04": "GTA 6: ¿edición Estándar o Ultimate? Comparo precios, qué incluye cada una, si conviene la física o la digital, y cuál te recomiendo comprar según cómo vayas a jugar.",
+ "05": "¿GTA 6 sale en PC? No el 19 de noviembre. Te cuento qué se sabe de la versión de PC, cuánto tardaron GTA IV, GTA V y Red Dead Redemption 2 en llegar a ordenador, cómo jugar desde el PC si tienes consola y cuidado con las estafas.",
+ "06": "El mapa de GTA 6 explicado: las 6 regiones de Leonida (Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga) y en qué lugar real de Florida se inspira cada una.",
+ "07": "¿Quiénes son Jason Duval y Lucía Caminos, los protagonistas de GTA 6? Te cuento su historia según lo que ha mostrado Rockstar, sin spoilers, y quiénes son los personajes secundarios.",
+ "08": "GTA 6 en PS5, PS5 Pro, Xbox Series X o Series S: ¿dónde se juega mejor? Lo confirmado, los FPS, la versión de PS5 Pro, el espacio en Series S y mi consejo si vas a comprar consola.",
+ "09": "10 cosas que debes hacer antes de tu primera noche en GTA 6: precarga, actualizaciones, espacio, cómo evitar spoilers, ajustes de brillo, HDR y subtítulos, y consejos para disfrutar las primeras horas.",
+ "10": "La historia de Grand Theft Auto en minutos: de GTA 1 (1997) a GTA III, Vice City, San Andreas, GTA IV y GTA V, hasta la llegada de GTA 6 el 19 de noviembre de 2026.",
+}
+DESCRIPCIONES_SHORTS = {
+ "S1": "GTA 6 se desbloquea a medianoche, hora local, el 19 de noviembre. En la costa oeste de EE. UU., desde las 21:00 del miércoles 18.",
+ "S2": "GTA 6 puede ocupar hasta 212 GB. Esto es lo que te queda libre en cada consola y cómo hacer sitio.",
+ "S3": "GTA 6 no sale en PC el 19 de noviembre, y no hay fecha. Cuidado con las webs que ofrecen descargas: son estafas.",
+ "S4": "Estándar (79,99 $) o Ultimate (99,99 $ según los reportes): la historia es la misma en las dos.",
+ "S5": "Las 6 regiones de Leonida en GTA 6: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga.",
+}

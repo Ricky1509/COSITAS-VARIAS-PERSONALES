@@ -7,9 +7,11 @@ Las 6 regiones de Leonida en GTA 6 🗺️ #GTA6 #Shorts
 
 ## Descripción
 ```
-Estas son las seis regiones de Leonida, el mapa de GTA seis. Vice City, que es Miami. Los cayos de Leonida. Y Grassrivers, los pantanos de los Everglades. Port Gellhorn, la costa olvidada. Ambrosia, el interior rural e industrial. Y el parque nacional de Mount Kalaga. ¿Cuál vas a explorar primero?
+Las 6 regiones de Leonida en GTA 6: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga.
 
-▶️ Video completo: «El MAPA de GTA 6 explicado: las 6 regiones de Leonida» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «El MAPA de GTA 6 explicado: las 6 regiones de Leonida»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```

@@ -9,7 +9,7 @@
 
 ## Descripción
 ```
-GTA seis tiene dos protagonistas: Jason Duval y Lucía Caminos. Te cuento quiénes son, solo con lo que Rockstar ha mostrado oficialmente. Cero spoilers de la historia.
+¿Quiénes son Jason Duval y Lucía Caminos, los protagonistas de GTA 6? Te cuento su historia según lo que ha mostrado Rockstar, sin spoilers, y quiénes son los personajes secundarios.
 
 ⏱️ CAPÍTULOS
 0:00 Sin spoilers

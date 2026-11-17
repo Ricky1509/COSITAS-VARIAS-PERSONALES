@@ -23,9 +23,11 @@
 
 ## Descripción
 ```
-¿A qué hora sale GTA seis? A la medianoche, hora local, del diecinueve de noviembre. En España y en toda Latinoamérica, a las doce de la noche del dieciocho al diecinueve. Y en Estados Unidos abre a la vez en todo el país. En la costa oeste, desde las nueve de la noche del miércoles. ¿Llega la hora y no te abre? En PlayStation, restaura las licencias. Te lo explico entero en el video del canal.
+GTA 6 se desbloquea a medianoche, hora local, el 19 de noviembre. En la costa oeste de EE. UU., desde las 21:00 del miércoles 18.
 
-▶️ Video completo: «¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```
@@ -47,9 +49,11 @@ gta 6, gta 6 hora, a que hora sale gta 6, gta 6 shorts
 
 ## Descripción
 ```
-GTA seis puede ocupar hasta doscientos doce gigas. ¿Te cabe en la consola? Esto es lo que queda libre de fábrica en cada consola. En la Series S, GTA seis se come más de la mitad. Borra lo que no juegues, limpia tus capturas, y deja espacio extra para el parche del día uno. Sígueme para más guías de GTA seis.
+GTA 6 puede ocupar hasta 212 GB. Esto es lo que te queda libre en cada consola y cómo hacer sitio.
 
-▶️ Video completo: «¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```
@@ -71,9 +75,11 @@ gta 6 peso, cuanto pesa gta 6, gta 6 gb, gta 6 shorts
 
 ## Descripción
 ```
-¿GTA seis sale en PC? No. Rockstar no ha dado ni fecha ni ventana para ordenador. Rockstar siempre lanza primero en consola. GTA cinco tardó más de año y medio en llegar a PC. Y ojo: cualquier web que te ofrezca GTA seis para PC es una estafa o un virus. Sígueme para no perderte la fecha real.
+GTA 6 no sale en PC el 19 de noviembre, y no hay fecha. Cuidado con las webs que ofrecen descargas: son estafas.
 
-▶️ Video completo: «¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```
@@ -95,9 +101,11 @@ GTA 6: ¿Estándar o Ultimate? 💰 #GTA6 #Shorts
 
 ## Descripción
 ```
-¿Estándar o Ultimate? La estándar cuesta setenta y nueve con noventa y nueve dólares. La Ultimate, según los reportes, veinte dólares más, con coches, armas y ropa extra. Pero la historia es exactamente la misma. Si vas a por la campaña, con la estándar te sobra.
+Estándar (79,99 $) o Ultimate (99,99 $ según los reportes): la historia es la misma en las dos.
 
-▶️ Video completo: «GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```
@@ -119,9 +127,11 @@ Las 6 regiones de Leonida en GTA 6 🗺️ #GTA6 #Shorts
 
 ## Descripción
 ```
-Estas son las seis regiones de Leonida, el mapa de GTA seis. Vice City, que es Miami. Los cayos de Leonida. Y Grassrivers, los pantanos de los Everglades. Port Gellhorn, la costa olvidada. Ambrosia, el interior rural e industrial. Y el parque nacional de Mount Kalaga. ¿Cuál vas a explorar primero?
+Las 6 regiones de Leonida en GTA 6: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga.
 
-▶️ Video completo: «El MAPA de GTA 6 explicado: las 6 regiones de Leonida» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «El MAPA de GTA 6 explicado: las 6 regiones de Leonida»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```

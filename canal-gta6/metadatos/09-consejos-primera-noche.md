@@ -9,7 +9,7 @@
 
 ## Descripción
 ```
-Llevas años esperando este momento. Que no lo arruine un detalle tonto. Aquí van diez cosas que hacer antes y durante tu primera noche con GTA seis.
+10 cosas que debes hacer antes de tu primera noche en GTA 6: precarga, actualizaciones, espacio, cómo evitar spoilers, ajustes de brillo, HDR y subtítulos, y consejos para disfrutar las primeras horas.
 
 ⏱️ CAPÍTULOS
 0:00 La noche más esperada
@@ -23,7 +23,7 @@ Llevas años esperando este momento. Que no lo arruine un detalle tonto. Aquí v
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #ConsejosPrimeraNoche
+#GTA6 #GTAVI #GTA6Consejos
 ```
 
 ## Etiquetas

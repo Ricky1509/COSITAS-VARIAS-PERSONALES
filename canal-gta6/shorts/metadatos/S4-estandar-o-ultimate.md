@@ -7,9 +7,11 @@ GTA 6: ¿Estándar o Ultimate? 💰 #GTA6 #Shorts
 
 ## Descripción
 ```
-¿Estándar o Ultimate? La estándar cuesta setenta y nueve con noventa y nueve dólares. La Ultimate, según los reportes, veinte dólares más, con coches, armas y ropa extra. Pero la historia es exactamente la misma. Si vas a por la campaña, con la estándar te sobra.
+Estándar (79,99 $) o Ultimate (99,99 $ según los reportes): la historia es la misma en las dos.
 
-▶️ Video completo: «GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```

@@ -9,7 +9,7 @@ GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar
 
 ## Descripción
 ```
-Es la pregunta que más se repite estos días: ¿compro la edición estándar o la Ultimate? Vamos con los precios, las diferencias, y mi recomendación.
+GTA 6: ¿edición Estándar o Ultimate? Comparo precios, qué incluye cada una, si conviene la física o la digital, y cuál te recomiendo comprar según cómo vayas a jugar.
 
 ⏱️ CAPÍTULOS
 0:00 La duda del momento
@@ -23,7 +23,7 @@ Es la pregunta que más se repite estos días: ¿compro la edición estándar o 
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #PrecioEdiciones
+#GTA6 #GTAVI #GTA6Precio
 ```
 
 ## Etiquetas

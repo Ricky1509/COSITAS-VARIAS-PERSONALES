@@ -9,7 +9,7 @@ GTA 6 en PS5, PS5 Pro, Series X o Series S: ¿dónde se juega MEJOR?
 
 ## Descripción
 ```
-Si estás pensando en comprar consola para GTA seis, o quieres saber dónde se verá mejor, este video es para ti. Te cuento lo que se sabe, y lo que todavía no.
+GTA 6 en PS5, PS5 Pro, Xbox Series X o Series S: ¿dónde se juega mejor? Lo confirmado, los FPS, la versión de PS5 Pro, el espacio en Series S y mi consejo si vas a comprar consola.
 
 ⏱️ CAPÍTULOS
 0:00 La gran pregunta
@@ -23,7 +23,7 @@ Si estás pensando en comprar consola para GTA seis, o quieres saber dónde se v
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #QueConsola
+#GTA6 #GTAVI #GTA6PS5
 ```
 
 ## Etiquetas

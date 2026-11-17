@@ -9,7 +9,7 @@ GTA 6: TODO lo que necesitas saber antes de jugar (resumen en 4 minutos)
 
 ## Descripción
 ```
-Si no has seguido cada noticia de los últimos años, este video es para ti. Te resumo todo lo importante de GTA seis en unos cuatro minutos, sin spoilers de la historia.
+Todo lo que necesitas saber de GTA 6 antes de jugar, en menos de 3 minutos y sin spoilers: fecha de salida, plataformas, el mapa de Leonida, Jason y Lucía, precio de las ediciones, cuánto ocupa y lo que todavía no sabemos.
 
 ⏱️ CAPÍTULOS
 0:00 En 4 minutos
@@ -26,7 +26,7 @@ Si no has seguido cada noticia de los últimos años, este video es para ti. Te 
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #TodoLoQueSabemos
+#GTA6 #GTAVI #GTA6Resumen
 ```
 
 ## Etiquetas

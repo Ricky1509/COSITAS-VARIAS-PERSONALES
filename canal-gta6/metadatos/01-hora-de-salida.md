@@ -9,7 +9,7 @@
 
 ## Descripción
 ```
-Por fin. Después de dos retrasos y casi tres años de espera desde el primer tráiler, GTA seis sale el diecinueve de noviembre. En este video te digo a qué hora se desbloquea en tu país, y qué hacer si llega la hora y el juego no te abre.
+¿A qué hora sale GTA 6? El juego se desbloquea a medianoche, hora local, el 19 de noviembre de 2026. Te explico el horario en España, México, Argentina, Colombia, Chile y Estados Unidos, qué revisar antes de la medianoche y qué hacer si llega la hora y GTA 6 no te abre en PS5 o Xbox.
 
 ⏱️ CAPÍTULOS
 0:00 Hoy es el día
@@ -25,7 +25,7 @@ Por fin. Después de dos retrasos y casi tres años de espera desde el primer tr
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #HoraDeSalida
+#GTA6 #GTAVI #GTA6HoraDeSalida
 ```
 
 ## Etiquetas

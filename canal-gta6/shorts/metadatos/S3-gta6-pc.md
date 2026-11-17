@@ -7,9 +7,11 @@
 
 ## Descripción
 ```
-¿GTA seis sale en PC? No. Rockstar no ha dado ni fecha ni ventana para ordenador. Rockstar siempre lanza primero en consola. GTA cinco tardó más de año y medio en llegar a PC. Y ojo: cualquier web que te ofrezca GTA seis para PC es una estafa o un virus. Sígueme para no perderte la fecha real.
+GTA 6 no sale en PC el 19 de noviembre, y no hay fecha. Cuidado con las webs que ofrecen descargas: son estafas.
 
-▶️ Video completo: «¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «¿GTA 6 sale en PC? Lo que se sabe (y lo que puedes hacer hoy)»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```

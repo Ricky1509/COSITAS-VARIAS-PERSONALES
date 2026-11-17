@@ -9,7 +9,7 @@
 
 ## Descripción
 ```
-La respuesta corta: no. GTA seis no sale en PC el diecinueve de noviembre. Rockstar no ha anunciado fecha ni ventana para la versión de ordenador. Pero hay contexto que te interesa.
+¿GTA 6 sale en PC? No el 19 de noviembre. Te cuento qué se sabe de la versión de PC, cuánto tardaron GTA IV, GTA V y Red Dead Redemption 2 en llegar a ordenador, cómo jugar desde el PC si tienes consola y cuidado con las estafas.
 
 ⏱️ CAPÍTULOS
 0:00 La respuesta corta
@@ -22,7 +22,7 @@ La respuesta corta: no. GTA seis no sale en PC el diecinueve de noviembre. Rocks
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #Gta6Pc
+#GTA6 #GTAVI #GTA6PC
 ```
 
 ## Etiquetas

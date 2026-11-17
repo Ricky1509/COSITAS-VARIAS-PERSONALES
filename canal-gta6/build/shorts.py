@@ -186,7 +186,7 @@ def construir(s):
     # metadatos del Short
     largo = next(v for v in R.G.VIDEOS if v["id"] == s["largo"])
     md = (f"# {s['id']} · Short\n\n**Archivo:** `shorts/{s['id']}-{s['slug']}.mp4` ({total:.0f} s)\n\n"
-          f"## Título\n{s['titulo']}\n\n## Descripción\n```\n" + " ".join(sum((e['voz'] for e in s['escenas']), [])) +
+          f"## Título\n{s['titulo']}\n\n## Descripción\n```\n" + R.G.DESCRIPCIONES_SHORTS[s['id']] +
           f"\n\n▶️ Video completo: «{largo['titulo']}» (enlázalo aquí cuando esté publicado)\n\n#GTA6 #GTAVI #Shorts\n```\n\n"
           f"## Video relacionado (campo \"Video relacionado\" de YouTube)\n{largo['id']} · {largo['titulo']}\n\n"
           f"## Etiquetas\n{', '.join(s['tags'])}\n")
@@ -194,7 +194,23 @@ def construir(s):
     open(os.path.join(R.RAIZ, "shorts", "metadatos", f"{s['id']}-{s['slug']}.md"), "w", encoding="utf-8").write(md)
     return salida, total
 
+def solo_metadatos(s):
+    """Reescribe la ficha .md sin volver a renderizar (usa la duración del MP4)."""
+    import subprocess as sp
+    f = os.path.join(R.RAIZ, "shorts", f"{s['id']}-{s['slug']}.mp4")
+    tot = float(sp.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",f],capture_output=True,text=True).stdout)
+    largo = next(v for v in R.G.VIDEOS if v["id"] == s["largo"])
+    md = (f"# {s['id']} · Short\n\n**Archivo:** `shorts/{s['id']}-{s['slug']}.mp4` ({tot:.0f} s)\n\n"
+          f"## Título\n{s['titulo']}\n\n## Descripción\n```\n" + R.G.DESCRIPCIONES_SHORTS[s['id']] +
+          f"\n\n▶️ Video completo en el canal: «{largo['titulo']}»\n\n🔔 Suscríbete a {R.G.CANAL} para más guías de GTA 6.\n\n#GTA6 #GTAVI #Shorts\n```\n\n"
+          f"## Video relacionado (campo \"Video relacionado\" de YouTube)\n{largo['id']} · {largo['titulo']}\n\n"
+          f"## Etiquetas\n{', '.join(s['tags'])}\n")
+    open(os.path.join(R.RAIZ, "shorts", "metadatos", f"{s['id']}-{s['slug']}.md"), "w", encoding="utf-8").write(md)
+
 if __name__ == "__main__":
+    if "--metadatos" in sys.argv:
+        for s in SHORTS: solo_metadatos(s)
+        sys.exit()
     ids = sys.argv[1:]
     for s in SHORTS:
         if ids and s["id"] not in ids: continue

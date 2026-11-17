@@ -9,7 +9,7 @@
 
 ## Descripción
 ```
-GTA seis puede ocupar hasta doscientos doce gigas, según Rockstar. Y eso puede ser un problema, porque muchas consolas no tienen tanto espacio libre. Vamos a solucionarlo.
+¿Cuánto pesa GTA 6? Hasta 212 GB según Rockstar. Te enseño cuánto espacio libre tiene cada consola (PS5, PS5 Slim, Xbox Series X y Series S) y cómo liberar espacio paso a paso para que te quepa el juego y el parche del día uno.
 
 ⏱️ CAPÍTULOS
 0:00 La cifra
@@ -23,7 +23,7 @@ GTA seis puede ocupar hasta doscientos doce gigas, según Rockstar. Y eso puede 
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #CuantoPesa
+#GTA6 #GTAVI #GTA6Peso
 ```
 
 ## Etiquetas

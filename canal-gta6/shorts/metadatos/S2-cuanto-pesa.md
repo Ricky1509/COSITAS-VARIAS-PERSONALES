@@ -7,9 +7,11 @@
 
 ## Descripción
 ```
-GTA seis puede ocupar hasta doscientos doce gigas. ¿Te cabe en la consola? Esto es lo que queda libre de fábrica en cada consola. En la Series S, GTA seis se come más de la mitad. Borra lo que no juegues, limpia tus capturas, y deja espacio extra para el parche del día uno. Sígueme para más guías de GTA seis.
+GTA 6 puede ocupar hasta 212 GB. Esto es lo que te queda libre en cada consola y cómo hacer sitio.
 
-▶️ Video completo: «¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «¿CUÁNTO PESA GTA 6? Cómo liberar espacio en PS5 y Xbox (212 GB)»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```

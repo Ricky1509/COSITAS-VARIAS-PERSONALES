@@ -7,9 +7,11 @@
 
 ## Descripción
 ```
-¿A qué hora sale GTA seis? A la medianoche, hora local, del diecinueve de noviembre. En España y en toda Latinoamérica, a las doce de la noche del dieciocho al diecinueve. Y en Estados Unidos abre a la vez en todo el país. En la costa oeste, desde las nueve de la noche del miércoles. ¿Llega la hora y no te abre? En PlayStation, restaura las licencias. Te lo explico entero en el video del canal.
+GTA 6 se desbloquea a medianoche, hora local, el 19 de noviembre. En la costa oeste de EE. UU., desde las 21:00 del miércoles 18.
 
-▶️ Video completo: «¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre» (enlázalo aquí cuando esté publicado)
+▶️ Video completo en el canal: «¿A QUÉ HORA SALE GTA 6? Horario por país + qué hacer si no te abre»
+
+🔔 Suscríbete a PUNTO NEÓN para más guías de GTA 6.
 
 #GTA6 #GTAVI #Shorts
 ```

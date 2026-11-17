@@ -9,7 +9,7 @@
 
 ## Descripción
 ```
-Por fin. Después de dos retrasos y casi tres años de espera desde el primer tráiler, GTA seis sale el diecinueve de noviembre. En este video te digo a qué hora se desbloquea en tu país, y qué hacer si llega la hora y el juego no te abre.
+¿A qué hora sale GTA 6? El juego se desbloquea a medianoche, hora local, el 19 de noviembre de 2026. Te explico el horario en España, México, Argentina, Colombia, Chile y Estados Unidos, qué revisar antes de la medianoche y qué hacer si llega la hora y GTA 6 no te abre en PS5 o Xbox.
 
 ⏱️ CAPÍTULOS
 0:00 Hoy es el día
@@ -25,7 +25,7 @@ Por fin. Después de dos retrasos y casi tres años de espera desde el primer tr
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #HoraDeSalida
+#GTA6 #GTAVI #GTA6HoraDeSalida
 ```
 
 ## Etiquetas
@@ -94,7 +94,7 @@ GTA 6: TODO lo que necesitas saber antes de jugar (resumen en 4 minutos)
 
 ## Descripción
 ```
-Si no has seguido cada noticia de los últimos años, este video es para ti. Te resumo todo lo importante de GTA seis en unos cuatro minutos, sin spoilers de la historia.
+Todo lo que necesitas saber de GTA 6 antes de jugar, en menos de 3 minutos y sin spoilers: fecha de salida, plataformas, el mapa de Leonida, Jason y Lucía, precio de las ediciones, cuánto ocupa y lo que todavía no sabemos.
 
 ⏱️ CAPÍTULOS
 0:00 En 4 minutos
@@ -111,7 +111,7 @@ Si no has seguido cada noticia de los últimos años, este video es para ti. Te 
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #TodoLoQueSabemos
+#GTA6 #GTAVI #GTA6Resumen
 ```
 
 ## Etiquetas
@@ -180,7 +180,7 @@ gta 6, gta 6 resumen, gta 6 todo lo que sabemos, gta 6 historia, gta 6 jason luc
 
 ## Descripción
 ```
-GTA seis puede ocupar hasta doscientos doce gigas, según Rockstar. Y eso puede ser un problema, porque muchas consolas no tienen tanto espacio libre. Vamos a solucionarlo.
+¿Cuánto pesa GTA 6? Hasta 212 GB según Rockstar. Te enseño cuánto espacio libre tiene cada consola (PS5, PS5 Slim, Xbox Series X y Series S) y cómo liberar espacio paso a paso para que te quepa el juego y el parche del día uno.
 
 ⏱️ CAPÍTULOS
 0:00 La cifra
@@ -194,7 +194,7 @@ GTA seis puede ocupar hasta doscientos doce gigas, según Rockstar. Y eso puede 
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #CuantoPesa
+#GTA6 #GTAVI #GTA6Peso
 ```
 
 ## Etiquetas
@@ -255,7 +255,7 @@ GTA 6: ¿Edición ESTÁNDAR o ULTIMATE? Precio y cuál comprar
 
 ## Descripción
 ```
-Es la pregunta que más se repite estos días: ¿compro la edición estándar o la Ultimate? Vamos con los precios, las diferencias, y mi recomendación.
+GTA 6: ¿edición Estándar o Ultimate? Comparo precios, qué incluye cada una, si conviene la física o la digital, y cuál te recomiendo comprar según cómo vayas a jugar.
 
 ⏱️ CAPÍTULOS
 0:00 La duda del momento
@@ -269,7 +269,7 @@ Es la pregunta que más se repite estos días: ¿compro la edición estándar o 
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #PrecioEdiciones
+#GTA6 #GTAVI #GTA6Precio
 ```
 
 ## Etiquetas
@@ -326,7 +326,7 @@ gta 6 precio, gta 6 ultimate edition, gta 6 edicion estandar, cuanto cuesta gta 
 
 ## Descripción
 ```
-La respuesta corta: no. GTA seis no sale en PC el diecinueve de noviembre. Rockstar no ha anunciado fecha ni ventana para la versión de ordenador. Pero hay contexto que te interesa.
+¿GTA 6 sale en PC? No el 19 de noviembre. Te cuento qué se sabe de la versión de PC, cuánto tardaron GTA IV, GTA V y Red Dead Redemption 2 en llegar a ordenador, cómo jugar desde el PC si tienes consola y cuidado con las estafas.
 
 ⏱️ CAPÍTULOS
 0:00 La respuesta corta
@@ -339,7 +339,7 @@ La respuesta corta: no. GTA seis no sale en PC el diecinueve de noviembre. Rocks
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #Gta6Pc
+#GTA6 #GTAVI #GTA6PC
 ```
 
 ## Etiquetas
@@ -391,7 +391,7 @@ El MAPA de GTA 6 explicado: las 6 regiones de Leonida
 
 ## Descripción
 ```
-Leonida es el estado ficticio donde transcurre GTA seis, la parodia de Rockstar de Florida. Rockstar ha confirmado seis regiones. Te las presento una por una, y qué representa cada una en la vida real.
+El mapa de GTA 6 explicado: las 6 regiones de Leonida (Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga) y en qué lugar real de Florida se inspira cada una.
 
 ⏱️ CAPÍTULOS
 0:00 Bienvenido a Leonida
@@ -405,7 +405,7 @@ Leonida es el estado ficticio donde transcurre GTA seis, la parodia de Rockstar 
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #MapaLeonida
+#GTA6 #GTAVI #GTA6Mapa
 ```
 
 ## Etiquetas
@@ -470,7 +470,7 @@ gta 6 mapa, mapa gta 6, leonida, vice city gta 6, gta 6 regiones, gta 6 florida,
 
 ## Descripción
 ```
-GTA seis tiene dos protagonistas: Jason Duval y Lucía Caminos. Te cuento quiénes son, solo con lo que Rockstar ha mostrado oficialmente. Cero spoilers de la historia.
+¿Quiénes son Jason Duval y Lucía Caminos, los protagonistas de GTA 6? Te cuento su historia según lo que ha mostrado Rockstar, sin spoilers, y quiénes son los personajes secundarios.
 
 ⏱️ CAPÍTULOS
 0:00 Sin spoilers
@@ -540,7 +540,7 @@ GTA 6 en PS5, PS5 Pro, Series X o Series S: ¿dónde se juega MEJOR?
 
 ## Descripción
 ```
-Si estás pensando en comprar consola para GTA seis, o quieres saber dónde se verá mejor, este video es para ti. Te cuento lo que se sabe, y lo que todavía no.
+GTA 6 en PS5, PS5 Pro, Xbox Series X o Series S: ¿dónde se juega mejor? Lo confirmado, los FPS, la versión de PS5 Pro, el espacio en Series S y mi consejo si vas a comprar consola.
 
 ⏱️ CAPÍTULOS
 0:00 La gran pregunta
@@ -554,7 +554,7 @@ Si estás pensando en comprar consola para GTA seis, o quieres saber dónde se v
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #QueConsola
+#GTA6 #GTAVI #GTA6PS5
 ```
 
 ## Etiquetas
@@ -610,7 +610,7 @@ gta 6 ps5 pro, gta 6 series s, gta 6 xbox series x, gta 6 fps, gta 6 rendimiento
 
 ## Descripción
 ```
-Llevas años esperando este momento. Que no lo arruine un detalle tonto. Aquí van diez cosas que hacer antes y durante tu primera noche con GTA seis.
+10 cosas que debes hacer antes de tu primera noche en GTA 6: precarga, actualizaciones, espacio, cómo evitar spoilers, ajustes de brillo, HDR y subtítulos, y consejos para disfrutar las primeras horas.
 
 ⏱️ CAPÍTULOS
 0:00 La noche más esperada
@@ -624,7 +624,7 @@ Llevas años esperando este momento. Que no lo arruine un detalle tonto. Aquí v
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #ConsejosPrimeraNoche
+#GTA6 #GTAVI #GTA6Consejos
 ```
 
 ## Etiquetas
@@ -680,7 +680,7 @@ De GTA 1 a GTA 6: la historia de la saga en 5 minutos
 
 ## Descripción
 ```
-Antes de entrar a Leonida, vale la pena mirar atrás. Así llegó Grand Theft Auto de ser un juego visto desde arriba a convertirse en el lanzamiento más esperado de la historia.
+La historia de Grand Theft Auto en minutos: de GTA 1 (1997) a GTA III, Vice City, San Andreas, GTA IV y GTA V, hasta la llegada de GTA 6 el 19 de noviembre de 2026.
 
 ⏱️ CAPÍTULOS
 0:00 Antes de empezar
@@ -694,7 +694,7 @@ Antes de entrar a Leonida, vale la pena mirar atrás. Así llegó Grand Theft Au
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #HistoriaDeGta
+#GTA6 #GTAVI #HistoriaDeGTA
 ```
 
 ## Etiquetas

@@ -9,7 +9,7 @@ De GTA 1 a GTA 6: la historia de la saga en 5 minutos
 
 ## Descripción
 ```
-Antes de entrar a Leonida, vale la pena mirar atrás. Así llegó Grand Theft Auto de ser un juego visto desde arriba a convertirse en el lanzamiento más esperado de la historia.
+La historia de Grand Theft Auto en minutos: de GTA 1 (1997) a GTA III, Vice City, San Andreas, GTA IV y GTA V, hasta la llegada de GTA 6 el 19 de noviembre de 2026.
 
 ⏱️ CAPÍTULOS
 0:00 Antes de empezar
@@ -23,7 +23,7 @@ Antes de entrar a Leonida, vale la pena mirar atrás. Así llegó Grand Theft Au
 
 ⚠️ Canal no oficial. No estamos afiliados a Rockstar Games ni a Take-Two Interactive. GTA, Grand Theft Auto y Leonida son marcas de sus respectivos dueños. Datos a 17 de noviembre de 2026; lo que no es oficial se indica como "según los reportes".
 
-#GTA6 #GTAVI #HistoriaDeGta
+#GTA6 #GTAVI #HistoriaDeGTA
 ```
 
 ## Etiquetas
